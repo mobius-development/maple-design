@@ -5,7 +5,6 @@ local App, Text = Maple.App, Maple.TextLabel
 local Model = App({
     Text("Hello, Maple!")
 })
-Model
-    :render()
-    :mount(game.Players.LocalPlayer.PlayerGui);
+
+Model:mount(game.Players.LocalPlayer.PlayerGui);
 ```
