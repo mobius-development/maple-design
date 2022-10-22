@@ -6,5 +6,5 @@ local Model = App({
     Text("Hello, Maple!")
 })
 
-Model:mount(game.Players.LocalPlayer.PlayerGui);
+Model.mount(game.Players.LocalPlayer.PlayerGui);
 ```
