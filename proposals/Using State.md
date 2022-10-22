@@ -7,5 +7,5 @@ local Model = App({
     Text(State:get())
 })
 
-Model:mount(game.Players.LocalPlayer.PlayerGui);
+Model.mount(game.Players.LocalPlayer.PlayerGui);
 ```
