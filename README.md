@@ -1,7 +1,8 @@
-<h2 align="center">
-  Maple Design
-</h2>
+<h3 align="center">
+  🍁 Maple · Rethinking UI on Roblox
+</h3>
 
 <p align="center">
-  🍁 The repository storing potential propositions to upcoming releases of the declarative UI library, Maple.
+  The repository for documenting upcoming implementations in future releases of Maple. 
+  <a href="https://github.com/mobiusdevs/maple-design/pulls">Want to contribute?</a>
 </p>
