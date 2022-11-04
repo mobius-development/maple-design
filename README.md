@@ -3,6 +3,6 @@
 </h3>
 
 <p align="center">
-  The repository for documenting upcoming implementations in future releases of Maple. 
+  The repository for documenting upcoming implementations in future releases of Maple. <br />
   <a href="https://github.com/mobiusdevs/maple-design/pulls">Want to contribute?</a>
 </p>
