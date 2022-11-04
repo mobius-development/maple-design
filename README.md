@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
   Maple Design
-</h1>
+</h2>
 
 <p align="center">
   🍁 The repository storing potential propositions to upcoming releases of the declarative UI library, Maple.
