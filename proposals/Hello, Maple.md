@@ -1,10 +1,12 @@
 ```lua
 local Maple = require(path.to.module)
-local App, Text = Maple.App, Maple.TextLabel
+local App, Text = Maple.App, Maple.Text
 
 local Model = App({
-    Text("Hello, Maple!")
+    HelloWorld = Text("Hello, world")
 })
 
-Model.mount(game.Players.LocalPlayer.PlayerGui);
+Model 
+    :render()
+    :mount(game.Players.LocalPlayer.PlayerGui)
 ```
