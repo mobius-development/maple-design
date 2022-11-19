@@ -6,7 +6,5 @@ local Model = App({
     HelloWorld = Text("Hello, world")
 })
 
-Model 
-    :render()
-    :mount(game.Players.LocalPlayer.PlayerGui)
+Model.mount(game.Players.LocalPlayer.PlayerGui)
 ```
